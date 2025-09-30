@@ -56,7 +56,7 @@ The analysis highlights key factors contributing to churn and provides recommend
 ---
 
 ## 📷 Dashboard Preview 
-![Dashboard Overview](images/images/overview.png)
+![Dashboard Overview](images/Overview.png)
 
 
 
